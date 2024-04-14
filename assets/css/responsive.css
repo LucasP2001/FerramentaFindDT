@@ -1,0 +1,64 @@
+/* Normal desktop :1200px. */
+@media (min-width: 770px) {
+    #etapas3{
+        top: -100px;
+   }
+
+   #etapas2{
+    margin-top: 60px;
+   }
+
+   #etapas4{
+    top: -120px;
+}
+#etapas{
+    margin-top: 60px;
+   }
+
+#contatos_footer{
+    right: -50px;
+}
+
+.intro_2{
+    top: -130px;
+    margin-left: 1%;S
+}
+
+
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 993px) and (max-width: 1200px) {
+    #equipe3{
+        padding-right: 60px;
+    }
+
+    
+
+}
+
+ 
+
+@media (min-width: 992px) {
+     
+    .sobre {
+        display: flex;
+        flex-direction: column;
+    }
+    
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 770px) {
+ 
+ 
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+ 
+}
